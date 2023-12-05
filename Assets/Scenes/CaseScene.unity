@@ -225,8 +225,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -400,7 +410,7 @@ PrefabInstance:
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
       propertyPath: UVModule.fps
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
@@ -729,8 +739,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2310,7 +2330,7 @@ PrefabInstance:
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
       propertyPath: UVModule.fps
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
@@ -2826,8 +2846,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3233,13 +3263,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1230148272}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.025911184, y: -0.19075696, z: 0.005011749, w: 0.9812825}
-  m_LocalPosition: {x: 1.1977806, y: 0.34620824, z: 1.0404396}
+  m_LocalRotation: {x: 0.14694208, y: -0.21817836, z: 0.03324959, w: 0.96420985}
+  m_LocalPosition: {x: 1.1977806, y: 0.36, z: 1.0404396}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 941970561}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 17.33, y: -25.5, z: 0}
 --- !u!1001 &1244135952
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3543,8 +3573,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3672,8 +3712,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4521,8 +4571,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.7490196
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4736,8 +4796,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: UVModule.fps
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
       value: 0.7490196
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7193,7 +7263,7 @@ PrefabInstance:
     - target: {fileID: 331551394093221293, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.35838076
+      value: 0.45069963
       objectReference: {fileID: 0}
     - target: {fileID: 331551394093221293, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
@@ -7203,7 +7273,7 @@ PrefabInstance:
     - target: {fileID: 331551394093221293, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.152
+      value: -0.084
       objectReference: {fileID: 0}
     - target: {fileID: 331551394093221293, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
@@ -7302,8 +7372,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: prewarm
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: UVModule.fps
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
@@ -7312,8 +7387,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
+      propertyPath: InitialModule.maxNumParticles
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
+        type: 3}
       propertyPath: InitialModule.startColor.maxColor.a
-      value: 0.5019608
+      value: 0.7019608
       objectReference: {fileID: 0}
     - target: {fileID: 8114379233335748728, guid: 0189eed68b72b477087a5068bcfb10ee,
         type: 3}
