@@ -51,7 +51,7 @@ Shader "Billboard"
             v2f vert (appdata v)
             {
                 v2f o;
-
+                
                 UNITY_SETUP_INSTANCE_ID(v);
                 UNITY_TRANSFER_INSTANCE_ID(v, o);
 
@@ -65,7 +65,9 @@ Shader "Billboard"
                 o.vertex = clipsPos;
 
                 o.uv = TRANSFORM_TEX(v.uv, _MainTex);
-                UNITY_TRANSFER_FOG(o,o.vertex);
+                o.color = v.color; // Initialize the color
+
+                UNITY_TRANSFER_FOG(o, o.vertex);
                 return o;
             }
 
